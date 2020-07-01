@@ -1,0 +1,12 @@
+body
+{
+  height: 1000px;
+  background-color: #cccccc;
+  background-image: url('../images/1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+p1{
+font-size: 28;
+color: red;
+}
